@@ -3,4 +3,4 @@
 
 //          2.          onSubmit={} will recongnized "enter" key being pressed.  
 
-//          3.          (sass or css) rbg spectrum makes it easier to set up transparent collors.  sass variations 
+//          3.          (sass or css) rbg spectrum makes it easier to set up transparent collors.  sass variations: color: rgba(#green, .5) -- allows transparency on hex
