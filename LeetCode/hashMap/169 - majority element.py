@@ -37,6 +37,11 @@ class Solution:
             store[i] += 1
             
         return max(store, key=store.get)
+        
+
+# Follow-up: Could you solve the problem in linear time and in O(1) space?
+
+# << Solution >>
 
 
     # def majorityElement(self, nums: List[int]) -> int:
