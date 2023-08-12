@@ -1,1 +1,1 @@
-# study-notes-from-JavaScript-React
+# study-notes
